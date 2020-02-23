@@ -16,6 +16,7 @@
 
 ## Livres
 - [Coursera - Programa de cursos integrados Ciência de Dados](https://pt.coursera.org/specializations/jhu-data-science)
+- [Statistical Learning - Stanford School Of Humanities And Sciences](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
 
 # Livros
 
